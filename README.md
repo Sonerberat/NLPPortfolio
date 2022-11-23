@@ -13,7 +13,7 @@ Sentiment analysis is a powerful text analysis tool that automatically mines uns
 - Use a binary cross-entropy loss function
 - Compute the accuracy of your model
 - Predict using your own input
-# 3. Text Message Topics(https://github.com/Sonerberat/NLPPortfolio/tree/main/Text%20Message%20Topics)
+# 3. [Text Message Topics](https://github.com/Sonerberat/NLPPortfolio/tree/main/Text%20Message%20Topics)
 Analysing text messages by asking these questions:
 - 1. Text message senders from which countries send the longest messages?
 - 2. What are some of the most common topics of text messages sent by people from Singapore, India, and the United States? How are they similar, and how are they different?
