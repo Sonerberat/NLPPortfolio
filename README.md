@@ -21,3 +21,4 @@ Analysing text messages by asking these questions:
 - 4. Is it possible to use text message data to predict what country a sender is from?
 
 The rest of this notebook aims to answer these three questions using such tools as word counts, TF-IDF analysis, word embeddings, n-gram identification, and a Multinomial Naive Bayes supervised machine learning model.
+# 4. [Voice Recognition](https://github.com/Sonerberat/NLPPortfolio/tree/main/Voice%20Recognition(TensorFlow))
