@@ -19,3 +19,4 @@ Analysing text messages by asking these questions:
 - 2. What are some of the most common topics of text messages sent by people from Singapore, India, and the United States? How are they similar, and how are they different?
 - 3. How (if at all) did the common topics of text messages sent by people from Singapore change between 2003 and 2011?
 - 4. Is it possible to use text message data to predict what country a sender is from?
+The rest of this notebook aims to answer these three questions using such tools as word counts, TF-IDF analysis, word embeddings, n-gram identification, and a Multinomial Naive Bayes supervised machine learning model.
