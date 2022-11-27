@@ -26,3 +26,5 @@ Building a simple speech recognition system. Have a look the files in order as s
 - 1. prepare_dataset.py in that file, data is pre-processed the voice dataset extracting MFCCs and saved them in a JSON file. Data is collected from: https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html
 - 2. train.py in that file, it will be shown how to train a simple speech recognition system using TensorFlow and Keras.
 - 3. keyword_spotting_service.py in that file, it will be shown how to make predictions with the speech recognition system I've previously implemented in TensorFlow.
+# 5. [Data Visualisation](https://github.com/Sonerberat/NLPPortfolio/tree/main/Data%20Visualisation)
+Simple data visualisation demonstration
