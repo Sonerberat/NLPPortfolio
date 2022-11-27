@@ -22,7 +22,7 @@ Analysing text messages by asking these questions:
 
 The rest of this notebook aims to answer these three questions using such tools as word counts, TF-IDF analysis, word embeddings, n-gram identification, and a Multinomial Naive Bayes supervised machine learning model.
 # 4. [Speech Recognition](https://github.com/Sonerberat/NLPPortfolio/tree/main/Voice%20Recognition(TensorFlow))
-Building a simple speech recognition system
+Building a simple speech recognition system. Have look the files in order as shown below
 - 1. prepare_dataset.py in that file, data is pre-processed the voice dataset extracting MFCCs and saved them in a JSON file. Data is collected from: https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html
 - 2. train.py in that file, it will be shown how to train a simple speech recognition system using TensorFlow and Keras.
 - 3. keyword_spotting_service.py in that file, it will be shown how to make predictions with the speech recognition system I've previously implemented in TensorFlow.
