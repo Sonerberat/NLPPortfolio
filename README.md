@@ -25,4 +25,4 @@ The rest of this notebook aims to answer these three questions using such tools 
 Buildiing a simple speech recognition system
 - 1. prepare_dataset.py in that file, data is pre-processed the voice dataset extracting MFCCs and saved them in a JSON file. Data is collected from: https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html
 - 2. train.py in that file, it will be shown how to train a simple speech recognition system using TensorFlow and Keras.
-- 3. keyword_spotting_service.py in that file, it will be shown how to make predictions with the speech recognition system we've previously implemented in TensorFlow.
+- 3. keyword_spotting_service.py in that file, it will be shown how to make predictions with the speech recognition system I've previously implemented in TensorFlow.
